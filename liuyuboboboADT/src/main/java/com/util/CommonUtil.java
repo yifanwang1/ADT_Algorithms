@@ -4,11 +4,9 @@ import java.util.Random;
 
 public class CommonUtil {
 
-
     /**
-    *  Ëæ»úÉú³É²¢·µ»Øn¸öÔªËØµÄÕûĞÍÊı×é
+    * è·å–æŒ‡å®šé•¿åº¦çš„æ•´å‹æ•°ç»„
     */
-
     public static int[] getRandomArrByInputSize(int size){
 
         Random random = new Random();
